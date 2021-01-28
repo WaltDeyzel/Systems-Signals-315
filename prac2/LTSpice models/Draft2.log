@@ -1,0 +1,21 @@
+Circuit: * C:\work\Systems and Signals\prac2\LTSpice models for TL081 op-amp and CD4066 analog switch. These must be in the same directory as you\Draft2.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed May 06 13:03:14 2020
+Total elapsed time: 0.211 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2088
+traniter = 2082
+tranpoints = 1042
+accept = 1042
+rejected = 0
+matrix size = 7
+fillins = 0
+solver = Normal
+Matrix Compiler1: 276 bytes object code size  0.1/0.1/[0.0]
+Matrix Compiler2: 487 bytes object code size  0.1/0.1/[0.1]
+
